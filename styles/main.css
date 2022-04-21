@@ -54,6 +54,11 @@ body {
     padding: 0;
     gap: 10px;
 }
+.cart {
+    background-image: url(../images/cart.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .button-item {
     position: relative;
 }
